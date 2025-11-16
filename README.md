@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on bein happy
 - 🌱 I’m currently learning Javascript and MORE Python
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about how to make pizza
